@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @a-meijer
-- 👀 I’m interested in ... building my showcase repository
-- 🌱 I’m currently learning ... Systems Administration
-- 💞️ I’m looking to collaborate on ... Coding Projects
-- 📫 How to reach me ... N/A
+- 👋 Hi, I’m Andrew Meijer
+- 👀 I’m interested in building my showcase repository and my website, atrm.ca
+- 💞️ I’m looking to collaborate on coding projects
+- 🌱 https://www.linkedin.com/in/andrew-meijer-513613120/
+- 📫 Send me an email: andrew@atrm.ca
 
 <!---
 a-meijer/a-meijer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
